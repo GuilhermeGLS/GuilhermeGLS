@@ -9,7 +9,7 @@
 
 - ❤️ I love travelling 🛫🛬
   
-- 🌱 I’m currently learning HTML, CSS and JS
+- 🌱 I’m currently learning  front-end development
  ---
  ### Social Networks
  ---
