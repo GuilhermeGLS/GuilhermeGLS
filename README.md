@@ -24,5 +24,8 @@
 
 ---
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeGLS&show_icons=true&theme=radical)
+  <div align="center" style="">
+    <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeGLS&show_icons=true&theme=radical"</>
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeGLS&layout=compact"</>
+</div>
 
