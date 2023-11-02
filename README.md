@@ -13,7 +13,6 @@
  ---
  ### Social Networks
  
- - [Instagram](https://www.instagram.com/guiguizs_l/)
  - <a href="https://www.linkedin.com/in/guilherme-lima-e-silva-2a1574269/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 ### Technologies and Tools:
 <div>    
