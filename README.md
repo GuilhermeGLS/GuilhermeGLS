@@ -5,7 +5,7 @@
 --- 
 - 🌎  I'm from Fortaleza,CE - Brazil
 
-- 🎮  I like to VolleyBall, animes and video games
+- 🎮  I like to VolleyBall and video games
 
 - ❤️ I love travelling 🛫🛬
   
