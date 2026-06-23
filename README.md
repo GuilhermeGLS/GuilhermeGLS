@@ -8,8 +8,6 @@
 - 🎮  I like to VolleyBall and video games
 
 - ❤️ I love travelling 🛫🛬
-  
-- 🌱 I’m currently learning php
  ---
  ### Social Networks
  
